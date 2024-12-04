@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # Your Data.gov API key
-API_KEY = 'MC1v8EG4LjHhjtp6heVrzgRM6XWIxqUmnYvhn0Ce'
+API_KEY = 'Create personal API key at Data.gov'
 
 # Dataset URL for COVID-19 cases and deaths
 dataset_url = 'https://api.covidtracking.com/v1/states/current.json'
